@@ -1,4 +1,4 @@
-## LLM Web Service - Fast Api
+# LLM Web Service - Fast Api
 
 ## Getting Started
 1. Install dependencies
